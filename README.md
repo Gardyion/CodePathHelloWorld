@@ -4,9 +4,9 @@
 `TODO://` This app randomly changes the colors of the inner and outer views of the screen, as well as the colors of the text in the label. The app also changes the text appearing in said label via a textbox. Buttons are utilized to perform these functions; tapping the background view will reset the app to its default state. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+![](https://i.imgur.com/nWCZmlF.gif)
+
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
