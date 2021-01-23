@@ -1,7 +1,7 @@
-## NAME_OF_YOUR_APP_HERE
+## Hello World!
 
 ### App Description
-`TODO://` Add app description
+`TODO://` This app randomly changes the colors of the inner and outer views of the screen, as well as the colors of the text in the label. The app also changes the text appearing in said label via a textbox. Buttons are utilized to perform these functions; tapping the background view will reset the app to its default state. 
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
